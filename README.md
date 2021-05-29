@@ -16,3 +16,5 @@ Aside from the solution, we were graded on the graphical output of the project. 
 
 # Use
 You can download and use this freely. There is sample data provided, and if you want you can make your own data to test it out!
+
+The project only uses simple java libraries, so it can be run easily from any command line.
