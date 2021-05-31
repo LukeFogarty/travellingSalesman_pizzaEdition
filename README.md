@@ -1,4 +1,4 @@
-# travellingSalesman_pizzaEdition
+# The Travelling Salesman Problem: Pizza Edition
 A solution to a college project about solving the Travelling Salesman Problem
 
 # The Project
